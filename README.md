@@ -36,3 +36,12 @@ And I work in the field of artificial intelligence and web development and try t
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+![Mobina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobinazaredoost&show_icons=true&theme=radical&hide_title=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mobinazaredoost&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinazaredoost&layout=compact&theme=radical&langs_count=8)
