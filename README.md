@@ -1,4 +1,4 @@
-# Mobin Zaredoost 👨‍💻
+# Mobin Zaredoost 👩‍💻
 
 ## About Me:
 I'm currently a computer engineering student   
