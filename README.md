@@ -40,8 +40,4 @@ And I work in the field of artificial intelligence and web development and try t
 
 ## 📊 GitHub Stats
 
-![Mobina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobinazaredoost&show_icons=true&theme=radical&hide_title=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mobinazaredoost&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinazaredoost&layout=compact&theme=radical&langs_count=8)
