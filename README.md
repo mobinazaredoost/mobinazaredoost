@@ -38,6 +38,5 @@ And I work in the field of artificial intelligence and web development and try t
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinazaredoost&layout=compact&theme=radical&langs_count=8)
+
