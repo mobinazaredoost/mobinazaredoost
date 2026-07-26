@@ -1,4 +1,4 @@
-# Mobina Zaredoust 👩‍💻
+# Mobina Zaredoost 👩‍💻
 
 ## About Me:
 Computer Engineering student with a strong interest in Frontend Development,and Computer Networks.
@@ -53,6 +53,6 @@ I enjoy transforming ideas into responsive, modern, and user-friendly web applic
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobinazaredoost&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mobinazaredoost&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=mobinazaredoost&theme=tokyonight&hide_border=true)
