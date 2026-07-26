@@ -1,9 +1,10 @@
 # Mobina Zaredoost 👩‍💻
 
-## About Me:
-I'm currently a computer engineering student   
-And I work in the field of artificial intelligence and web development and try to update myself every day.
+## About Me
 
+Computer Engineering student with a strong interest in Frontend Development,and Computer Networks.
+
+I enjoy transforming ideas into responsive, modern, and user-friendly web applications while continuously expanding my knowledge through hands-on projects.
 ### 🌐 Socials:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mobina-zaredoost-a31911374/)
 
@@ -55,3 +56,9 @@ And I work in the field of artificial intelligence and web development and try t
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
