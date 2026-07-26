@@ -3,8 +3,6 @@
 ## About Me:
 Computer Engineering student with a strong interest in Frontend Development,and Computer Networks.
 I enjoy transforming ideas into responsive, modern, and user-friendly web applications while continuously expanding my knowledge through hands-on projects.
-### 🌐 Socials:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mobina-zaredoost-a31911374/)
 
 ---
 ## 🛠️ Tech Stack
