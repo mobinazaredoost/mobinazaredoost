@@ -41,8 +41,6 @@ And I work in the field of artificial intelligence and web development and try t
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ### 🌍 Networking
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-0A77B7?style=for-the-badge&logo=cisco&logoColor=white)
 ![MCSA](https://img.shields.io/badge/MCSA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge)
