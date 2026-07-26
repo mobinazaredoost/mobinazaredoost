@@ -1,9 +1,7 @@
 # Mobina Zaredoost 👩‍💻
 
-## About Me
-
+## About Me:
 Computer Engineering student with a strong interest in Frontend Development,and Computer Networks.
-
 I enjoy transforming ideas into responsive, modern, and user-friendly web applications while continuously expanding my knowledge through hands-on projects.
 ### 🌐 Socials:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mobina-zaredoost-a31911374/)
@@ -60,5 +58,4 @@ I enjoy transforming ideas into responsive, modern, and user-friendly web applic
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
----
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
